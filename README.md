@@ -2,7 +2,7 @@
 
 - 🔭 I am currently pursuing a degree in Communications and Electronics Engineering at IPN ESIME Zacatenco, with a specialization in acoustics.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on Projects.
+- 👯 I’m looking forward to collaborate on Projects.
 - 🤔 I’m looking for help with OOP.
 - 💬 Ask me about Web Development (Front End).
 - 📫 How to reach me: Ig: _ ezequiel.88 _ .
