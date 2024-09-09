@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with OOP.
 - 💬 Ask me about Web Development (Front End).
 - 📫 How to reach me: Ig: _ ezequiel.88 _ .
-- 😄 Pronouns: He/him.
+- 😄 Pronouns: He/him. TILIN
 - ❤️ I love: Paul McCartney's music.
 - ⚡ What will I post on my profile?: I will be creating a blog to document my programming journey, from foundational concepts to advanced topics.
