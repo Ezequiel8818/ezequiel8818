@@ -1,4 +1,4 @@
-## Hi there Im Ezequiel García Neyra👋
+## Hi there, Im Ezequiel García Neyra👋
 
 - 🔭 I am currently pursuing a degree in Communications and Electronics Engineering at IPN ESIME Zacatenco, with a specialization in acoustics.
 - 🌱 I’m currently learning Python.
