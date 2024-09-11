@@ -15,8 +15,8 @@ Comentario con una linea
 '''
 
 #Consultar el tip de dato
-print(type("Hola Mundo")) #Tipo String
-print(type(5)) #Tipo int
+print(type("Hola Mundo")) #Tipo str (String)
+print(type(5)) #Tipo int (numero entero)
 print(type(1.8)) #Tipo float (Decimales)
-print(type(1+3j)) #Tipo complejo
+print(type(1+3j)) #Tipo complex( Números complejo)
 print(type(True)) #Tipo bool (booleano)
