@@ -13,5 +13,5 @@ print(type(my_int_to_str_variable)) #Te dice que tipo de dato es el que está al
 my_bool_variable = False
 print(my_bool_variable)
 
-#Concatenación de variables en un print 
+#Concatenación de variables en un print
 print(my_string_variable, my_int_to_str_variable, my_bool_variable)
